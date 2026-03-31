@@ -12,6 +12,7 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
-
+ find ambiente/immagini/vacanze *.jpg
+echo ambiente/immagini/vacanze/*.txt> ambiente/sandbox/elenco_txt.txt
+ echo ambiente/archivio/contratti>ambiente/sandbox/elenco_txt.txt
 
