@@ -12,6 +12,8 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
-
+1)ls -l
+2)chmod u+x script_test.sh
+3)ls -l
+./ambiente/sandbox/script_test.sh
 
