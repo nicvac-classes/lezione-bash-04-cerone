@@ -12,6 +12,9 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
+ cp  ambiente/documenti/note.txt ambiente/archivio/note_archivio.txt
+ ls ambiente/archivio
+ mv ambiente/documenti/lettere/*.txt ambiente/sandbox 
+ ls ambiente/sandbox
 
 
