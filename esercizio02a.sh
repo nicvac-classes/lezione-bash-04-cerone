@@ -19,6 +19,8 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
+1) cd ambiente/sandbox
+2)mkdir -p azienda/{vendite,acquisti}/{nord,sud}
+2)tree azienda
 
 
